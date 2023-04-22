@@ -2,7 +2,7 @@
 This project presents a fine-tuned implementation of the **XLM-RoBERTa** base model, which is a multilingual transformer-based language model trained on 100 languages from Hugging Face. The model is specifically fine-tuned for Vietnamese language question answering task.
 
 # 💡 Model
-The XLM-RoBERTa base model, a powerful multilingual transformer-based language model that has demonstrated exceptional performance in various natural language processing tasks, is utilized in the this project. It leverages a self-attention mechanism to capture long-range dependencies and acquire knowledge of complex relationships between words and sentences. The base model offers an optimal trade-off between performance and computational resources when compared to the larger XLM-RoBERTa model
+The XLM-RoBERTa base model, a powerful multilingual transformer-based language model that has demonstrated exceptional performance in various natural language processing tasks, is utilized in the this project. It leverages a self-attention mechanism to capture long-range dependencies and acquire knowledge of complex relationships between words and sentences. The base model offers an optimal trade-off between performance and computational resources when compared to the larger XLM-RoBERTa model.
 
 # 📚 Training Data Sources
 Despite the limited amount of training data, I was able to achieve promising results thanks to the power of the XLM-RoBERTa model. To fine-tune the model, I used a combination of translated datasets of question-answer pairs, as well as a Vietnamese text dataset released by Zalo AI Challenge 2022.
