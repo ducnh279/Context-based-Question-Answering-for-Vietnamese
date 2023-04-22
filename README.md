@@ -1,4 +1,4 @@
-# 🌟 Introduction to Vietnamese Transformer-based Question Answering
+# 🌟 Introduction to Vietnamese Question Answering
 This project presents a fine-tuned implementation of the **XLM-RoBERTa** base model, which is a multilingual transformer-based language model trained on 100 languages from Hugging Face. The model is specifically fine-tuned for Vietnamese language question answering task.
 
 # 💡 Model
