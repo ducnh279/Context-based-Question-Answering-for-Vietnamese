@@ -22,13 +22,13 @@ All the code for this project is available on Kaggle notebooks. You can find the
 | Notebook | Link |
 | --- | --- |
 | Prepare dataset | [Link](https://www.kaggle.com/code/ducnh279/prep-qa-dataset) |
-| Set-ups & fine-tuning | [Link](https://www.kaggle.com/code/ducnh279/qa-training) |  
+| Set-ups & fine-tuning | [Link](https://www.kaggle.com/code/ducnh279/roberta-qa-fine-tuning) |  
 
 # 📈 Results
 Here are some examples of how the XLM-RoBERTa model can effectively answer questions in Vietnamese:
 | Question | Context | Model Answer |
 | --- | --- | --- |
-| Elon Musk là người nước nào? | Elon Reeve Musk FRS (sinh ngày 28 tháng 6 năm 1971), là một kỹ sư, nhà tài phiệt, nhà phát minh, doanh nhân công nghệ và nhà từ thiện người Mỹ gốc Nam Phi. | người Mỹ gốc Nam Phi |
+| Elon Musk là người nước nào? | Elon Reeve Musk FRS (sinh ngày 28 tháng 6 năm 1971), là một kỹ sư, nhà tài phiệt, nhà phát minh, doanh nhân công nghệ và nhà từ thiện người Mỹ gốc Nam Phi. | Mỹ gốc Nam Phi |
 | Elon Musk sinh ngày bao nhiêu? | Elon Reeve Musk FRS (sinh ngày 28 tháng 6 năm 1971), là một kỹ sư, nhà tài phiệt, nhà phát minh, doanh nhân công nghệ và nhà từ thiện người Mỹ gốc Nam Phi. | ngày 28 tháng 6 năm 1971 |
 | Em trai Elon tên là gì? | Elon Musk cùng với em trai, Kimbal, đồng sáng lập ra Zip2, một công ty phần mềm web và được hãng Compaq mua lại với giá 340 triệu USD vào năm 1999. | Kimbal |
 | Hãng Compaq mua lại Zip2 với giá bao nhiêu? | Elon Musk cùng với em trai, Kimbal, đồng sáng lập ra Zip2, một công ty phần mềm web và được hãng Compaq mua lại với giá 340 triệu USD vào năm 1999. | 340 triệu USD |
